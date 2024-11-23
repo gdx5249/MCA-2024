@@ -37,3 +37,8 @@ I selected a page with relatively simple errors and made changes, which were bas
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown](https://i.postimg.cc/GpZZYZNz/redrosechange.png)
 # Week 3 lab
+## Task1:Export score to musicXML and MEI
+
+[Here](https://drive.google.com/file/d/1qsSnKlHmVYgaRaOJtjpepFHgSP6A47Mj/view?usp=drive_link) is my musicXML file.
+
+[Here](https://drive.google.com/file/d/16_oeGidz8AHG0YyBEXUHQjOphFmpvyoD/view?usp=drive_link) is my MEI file.
