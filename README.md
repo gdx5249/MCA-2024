@@ -18,4 +18,11 @@ Live music is usually brief and not repeated, making it difficult to continuousl
 + Notated data: This can be the score or MIDI data of the performance piece. We can analyze the music structure through these and modify it. However, recording of live music is not easy and requires questioning of accuracy.
 + Acoustic data: Including on-site audio recordings, audio analysis tables, and so on. It may come from some official websites or products. Due to the particularity of live music, there may be noise and sound quality issues.
 # Week 2 lab
+**The difference between PDF score and converted score by Musescore**
 
+I randomly selected a live music with red rose as the music theme on imslp as the transcription target. After transcribing, I was surprised to find some very obvious errors in the OMR engine's results! It seems that the pitch and rhythm of the entire score are consistent, but this does not hide the error. For instance: 
++ time signature: AT the beginning, 6/8 converted to 2/4.
++ G clef: A line of G clef with no meaning appeared out of nowhere, without any notes.
++ Rest note: Many sections are followed by unnecessary rests.
+
+More errors have been shown in the images below. The first before transcription and the second after transcription. You don't realize how much you can change without comparing!
