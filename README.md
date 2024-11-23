@@ -1,4 +1,4 @@
-# Week 1 lab question
+# Week 1 lab
 ## Task 1._"Live Music Archive"_😃
 
 Almostly, I don't have a specific song or artist that I want to study, but I hope to find the answer in my upcoming music analysis experiments.
@@ -17,5 +17,5 @@ Live music is usually brief and not repeated, making it difficult to continuousl
 + Descriptive data: These data can come from event websites, social media, fan comments, etc. It includes the band members, time and location, performance theme. It describes objective background and qualitative information about live music.
 + Notated data: This can be the score or MIDI data of the performance piece. We can analyze the music structure through these and modify it. However, recording of live music is not easy and requires questioning of accuracy.
 + Acoustic data: Including on-site audio recordings, audio analysis tables, and so on. It may come from some official websites or products. Due to the particularity of live music, there may be noise and sound quality issues.
-# Week 2 lab question
+# Week 2 lab
 
