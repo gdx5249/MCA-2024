@@ -11,6 +11,7 @@ Almostly, I don't have a specific song or artist that I want to study, but I hop
 **How live music exemplifies?**
 
 Live music is usually brief and not repeated, making it difficult to continuously record and analyze a single performance. Moreover, there are a large number of participants in live music activities, including musicians, stage managers, ticketing platforms, audiences, etc. If there is a lack of standardlized recording methods, tremendous live music archives will be difficult to preserve, which is a cultural loss.
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown](https://www.visitglasgow.com/imager/general/495489/Bars-with-free-live-music-stravaigin-content-block_8dc3bdbc8660ad389ec95cdf9b15d797.jpg)
 
 **How it is presented in three types of data?**
@@ -26,3 +27,13 @@ I randomly selected a live music with red rose as the music theme on imslp as th
 + Rest note: Many sections are followed by unnecessary rests.
 
 More errors have been shown in the images below. The first before transcription and the second after transcription. You don't realize how much you can change without comparing!
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown](https://i.postimg.cc/63qNLr55/redrosepdf.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown](https://i.postimg.cc/WpDdsr6v/redrosemusescore.png)
+
+**Score Editing**
+
+I selected a page with relatively simple errors and made changes, which were basically changes in rhythm and pitch. HERE IS MY WORK!😉
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown](https://i.postimg.cc/GpZZYZNz/redrosechange.png)
+# Week 3 lab
