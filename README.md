@@ -78,3 +78,22 @@ If I really want to manage a large number of MEI files, such a list obviously ha
 I changed the original MEI document, including adding publisher, composer, and arranger (i.e., myself) and annotating the date. Download it [HERE.](https://drive.google.com/file/d/1ahNtaoKegAq7gIIjCp-VFrzLQu2uw0Uw/view?usp=drive_link)
 # Week 7 lab
 # Week 8 lab
+## Task 1.
+| Title              | Artist              | Composer     | Identifier    | Genre           | Source           | File format   | Number of channel| Sample rate   | Bits per sec   | Duration    | Date                
+|:-------------------|--------------------:|-------------:|--------------:|----------------:|-----------------:|--------------:|-----------------:|--------------:|---------------:|------------:|--------------:|
+| One more saturday night| Grateful Dead | Matthew Vernon | gd1977-10-07.sbd-set2.miller.79020.sbeok.flac16              | Rural pop                |Live Music Archive|.mp3           |2                 | 44100hz              | 32000               |  5:45           |1977.10.07
+| Don't let me aside | tedeschi trunks band |Bob Hundertmark | ttb2024-10-04    | Blues                |Live Music Archive|.mp3           |2                 | 44100hz              | 32000               |  5:03           |2024.10.05
+| Wild blue | John mayer | laststopsc |  jm2023-10-21.nak.crown.mix.flac16            | Pop                |Live Music Archive|.mp3           |2                 | 48000hz              | 32000               |  3:51           |2023.10.21
+
+## Task.2
+### One more saturday night
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown](https://i.postimg.cc/hG86k4Hf/grateful-dead-part.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown](https://i.postimg.cc/zBJ68Zrp/grateful-dead-img-part.png)
+
+### Don't let me side
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown](https://i.postimg.cc/4y0S6YhF/tedeschi-trunks-part.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown](https://i.postimg.cc/W3WWVdSb/tedeschi-trucks-band-img-part.png)
+
+### Wild blue
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown](https://i.postimg.cc/4x6WdLw0/wild-blue-part.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown](https://i.postimg.cc/tgrwqv4j/john-mayer-img-part.png)
