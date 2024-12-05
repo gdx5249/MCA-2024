@@ -1,3 +1,4 @@
+# Welcome to my portfolio! All of my files except my images are uploaded via Google Drive, so if you can't open them, you might need to log into your Google account to see them!
 # Week 1 lab
 ## Task 1._"Live Music Archive"_😃
 
@@ -79,6 +80,9 @@ I changed the original MEI document, including adding publisher, composer, and a
 # Week 7 lab
 ## Task 1.
 I updated the last week metadata file "scoreweek5.mei", [HERE](https://drive.google.com/file/d/18iKdyccE7U57tNR981eZHaFSOmCL7vR4/view?usp=sharing) is my week 7 MEI file. And I add classification, genre, seriesStmt.
+
+## Task 2.
+
 # Week 8 lab
 ## Task 1.
 | Title              | Artist              | Composer     | Identifier    | Genre           | Source           | File format   | Number of channel| Sample rate   | Bits per sec   | Duration    | Date                
