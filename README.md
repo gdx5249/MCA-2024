@@ -82,6 +82,18 @@ I changed the original MEI document, including adding publisher, composer, and a
 I updated the last week metadata file "scoreweek5.mei", [HERE](https://drive.google.com/file/d/18iKdyccE7U57tNR981eZHaFSOmCL7vR4/view?usp=sharing) is my week 7 MEI file. And I add classification, genre, seriesStmt.
 
 ## Task 2.
+<div class="copyright-container">
+    <h2>Ah! May the Red Rose Live Always!</h2>
+    <p><strong>Composer:</strong> Foster, Stephen</p>
+    <p><strong>Year/Date of Composition:</strong> 1850 - Baltimore: F.D. Benteen</p>
+    <p><strong>Dedication:</strong> Miss Mary M. Dallas</p>
+    <p><strong>Editor:</strong> Robert A. Hudson</p>
+    <p><strong>Publisher Info.:</strong> Robert A. Hudson</p>
+    <p><strong>Copyright:</strong> Creative Commons Attribution 3.0</p>
+    <p><strong>Composer Time Period:</strong> Romantic</p>
+    <p><strong>Instrumentation:</strong> voice, piano</p>
+    <p><strong>Encoded by:</strong> Dongxuan Gao, Glasgow, 2024</p>
+</div>
 
 # Week 8 lab
 ## Task 1.
