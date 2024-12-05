@@ -77,6 +77,8 @@ If I really want to manage a large number of MEI files, such a list obviously ha
 ## Task 2.
 I changed the original MEI document, including adding publisher, composer, and arranger (i.e., myself) and annotating the date. Download it [HERE.](https://drive.google.com/file/d/1ahNtaoKegAq7gIIjCp-VFrzLQu2uw0Uw/view?usp=drive_link)
 # Week 7 lab
+## Task 1.
+I updated the last week metadata file "scoreweek5.mei", [HERE](https://drive.google.com/file/d/18iKdyccE7U57tNR981eZHaFSOmCL7vR4/view?usp=sharing) is my week 7 MEI file. And I add classification, genre, seriesStmt.
 # Week 8 lab
 ## Task 1.
 | Title              | Artist              | Composer     | Identifier    | Genre           | Source           | File format   | Number of channel| Sample rate   | Bits per sec   | Duration    | Date                
