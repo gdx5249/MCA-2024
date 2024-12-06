@@ -42,7 +42,7 @@ I selected a page with relatively simple errors and made changes, which were bas
 
 The files I exported were still from the score I found in the week 2.
 
-[Here](https://drive.google.com/file/d/1qsSnKlHmVYgaRaOJtjpepFHgSP6A47Mj/view?usp=drive_link) is my musicXML file.
+[Here](https://gdx5249.github.io/MCA-2024/scoreweek2.musicxml) is my musicXML file.
 
 [Here](https://drive.google.com/file/d/16_oeGidz8AHG0YyBEXUHQjOphFmpvyoD/view?usp=drive_link) is my MEI file.
 # Week 4 lab
