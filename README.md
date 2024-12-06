@@ -62,7 +62,7 @@ I selected the elements from Tuesday's group activity and analyzed them using js
 + Most common melodic interval: 2
 
 ## Task 2.
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown]
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown](https://gdx5249.github.io/MCA-2024/IMG_20241206_174013.jpg)
 # Week 5 lab
 ## Task 1: Create a Metadata "Warehouse"
 
