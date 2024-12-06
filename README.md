@@ -62,7 +62,7 @@ I selected the elements from Tuesday's group activity and analyzed them using js
 + Most common melodic interval: 2
 
 ## Task 2.
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown]
 # Week 5 lab
 ## Task 1: Create a Metadata "Warehouse"
 
@@ -139,6 +139,7 @@ I think waveform analysis can not fully reflect the characteristics of a signal.
 # Week 9 lab
 ## Task 1.
 This week, I load three new pieces of music, here are transformations by sonicvisualiser. (From left to right is: Spectrogram, Mel Frequency Cepstral Coefficients, Chromagram) 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown]
 ## Task 2.
 
 # Week 10 lab
