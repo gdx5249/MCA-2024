@@ -144,7 +144,10 @@ This week, I load three new pieces of music, here are transformations by sonicvi
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown](https://gdx5249.github.io/MCA-2024/IMG_20241206_170224.jpg)
 + Cantonese Traditional Music (Mel Frequency Cepstral Coefficients)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown]
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown](https://gdx5249.github.io/MCA-2024/IMG_20241206_170550.jpg)
++ Turn up the Music (Live at AS220) (Chromagram)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown](https://gdx5249.github.io/MCA-2024/IMG_20241206_170836.jpg)
 ## Task 2.
 
 # Week 10 lab
