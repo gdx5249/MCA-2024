@@ -44,7 +44,7 @@ The files I exported were still from the score I found in the week 2.
 
 [Here](https://gdx5249.github.io/MCA-2024/scoreweek2.musicxml) is my musicXML file.
 
-[Here](https://gdx5249.github.io/MCA-2024/scorewweek2.mei) is my MEI file.
+[Here](https://gdx5249.github.io/MCA-2024/scoreweek2.mei) is my MEI file.
 # Week 4 lab
 ## Task 1.
 I selected the elements from Tuesday's group activity and analyzed them using jsymbolic, obtaning the following data. (The music piece was from week 2)
@@ -94,10 +94,10 @@ If I really want to manage a large number of MEI files, such a list obviously ha
 + Music analyst: Obviously! An excellent tool for expert research and exchange.
 
 ## Task 2.
-I changed the original MEI document, including adding publisher, composer, and arranger (i.e., myself) and annotating the date. Download it [HERE.](https://gdx5249.github.io/MCA-2024/scorewweek5.mei)
+I changed the original MEI document, including adding publisher, composer, and arranger (i.e., myself) and annotating the date. Download it [HERE.](https://gdx5249.github.io/MCA-2024/scoreweek5.mei)
 # Week 7 lab
 ## Task 1.
-I updated the last week metadata file "scoreweek5.mei", [HERE](https://gdx5249.github.io/MCA-2024/scorewweek7.mei.txt) is my week 7 MEI file. And I add classification, genre, seriesStmt.
+I updated the last week metadata file "scoreweek5.mei", [HERE](https://gdx5249.github.io/MCA-2024/scoreweek7.mei.txt) is my week 7 MEI file. And I add classification, genre, seriesStmt.
 
 ## Task 2.
 <div class="copyright-container">
