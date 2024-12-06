@@ -1,4 +1,4 @@
-# Welcome to my portfolio! All of my files except my images are uploaded via Google Drive, so if you can't open them, you might need to log into your Google account to see them!
+# Welcome to my portfolio! Some of images are uploaded by postimage!
 # Week 1 lab
 ## Task 1._"Live Music Archive"_😃
 
