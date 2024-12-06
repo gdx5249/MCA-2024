@@ -139,6 +139,11 @@ I think waveform analysis can not fully reflect the characteristics of a signal.
 # Week 9 lab
 ## Task 1.
 This week, I load three new pieces of music, here are transformations by sonicvisualiser. (From left to right is: Spectrogram, Mel Frequency Cepstral Coefficients, Chromagram) 
++ Music Alone Shall Live (Spectrogram)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown](https://gdx5249.github.io/MCA-2024/IMG_20241206_170224.jpg)
++ Cantonese Traditional Music (Mel Frequency Cepstral Coefficients)
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown]
 ## Task 2.
 
