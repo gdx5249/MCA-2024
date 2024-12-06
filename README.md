@@ -46,6 +46,23 @@ The files I exported were still from the score I found in the week 2.
 
 [Here](https://drive.google.com/file/d/16_oeGidz8AHG0YyBEXUHQjOphFmpvyoD/view?usp=drive_link) is my MEI file.
 # Week 4 lab
+## Task 1.
+I selected the elements from Tuesday's group activity and analyzed them using jsymbolic, obtaning the following data. (The music piece was from week 2)
++ Pitch class histogram: 0.2456
++ Number of pitches: 40
++ Number of pitches class: 10
++ Range: 60
++ Strong tonal centres: 2
++ Mean pitch: 60.26
++ Mean pitch calss: 5.672
++ Most common pitch: 62
++ Most common pitch class: 2
++ Interval between most prevalent pitches: 5
++ Pitch variability: 10.89
++ Most common melodic interval: 2
+
+## Task 2.
+
 # Week 5 lab
 ## Task 1: Create a Metadata "Warehouse"
 
@@ -120,4 +137,8 @@ I updated the last week metadata file "scoreweek5.mei", [HERE](https://drive.goo
 ### Advantage of time-frequency analysis
 I think waveform analysis can not fully reflect the characteristics of a signal. When we look at a waveform analysis diagram, we can clearly see the amplitude change over time, but it seems that the frequency is ignored and not so easy for us to read. Time-frequency analysis can locate the specific time when the frequency change occurs and reveal the change law of the signal in the local area. In the case of wild blue (only part of the picture is shown), when moving the middle area, we can see that there are new hot spots on the high frequency part, which means that there may be new sounds or signal instability. When you listen to the [MP4](https://drive.google.com/file/d/1AaLnPfM4egljOShFGZX2q7mOh50t3rFS/view?usp=drive_link) file of this music, you will find that the original vocals appear because he is a solo track. This shows that through time-frequency analysis, complex signals can be visually represented as two-dimensional images, which makes it easier for people to understand the nature of signals.
 # Week 9 lab
+## Task 1.
+This week, I load three new pieces of music, here are transformations by sonicvisualiser. (From left to right is: Spectrogram, Mel Frequency Cepstral Coefficients, Chromagram) 
+## Task 2.
+
 # Week 10 lab
